@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=220&section=header&text=Duy%20Tran&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descAlignY=55"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/tr%E1%BA%A7n-nh%E1%BA%ADt-duy-083264393/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-nh%E1%BA%ADt-duy-083264393/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nhatduy20072004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/diiisnewbie/diiisnewbie.github.io)
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/tr%E1%BA%A7n-nh%E1%BA%ADt-duy-083264393/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-nh%E1%BA%ADt-duy-083264393/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nhatduy20072004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/diiisnewbie/diiisnewbie.github.io)
 
