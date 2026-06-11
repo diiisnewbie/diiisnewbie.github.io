@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/tr%E1%BA%A7n-nh%E1%BA%ADt-duy-083264393/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nhatduy20072004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/diiisnewbie)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/diiisnewbie/diiisnewbie.github.io)
 
 </div>
 
@@ -64,7 +64,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/tr%E1%BA%A7n-nh%E1%BA%ADt-duy-083264393/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nhatduy20072004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/diiisnewbie)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/diiisnewbie/diiisnewbie.github.io)
 
 ![](https://komarev.com/ghpvc/?username=yourusername\&color=blueviolet\&style=for-the-badge)
 
